@@ -1,4 +1,5 @@
 [Click for Xamarin.iOS Version](https://github.com/CloudRail/cloudrail-si-xamarin-ios-sdk)
+
 [Click for Xamarin.Android Version](https://github.com/CloudRail/cloudrail-si-xamarin-android-sdk)
 
 <p align="center">
@@ -47,6 +48,7 @@ CloudRail.AppKey = "{Your_License_Key}";
 
 ## Dependencies Required
 [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
+
 [OpenSSL.X509Certificate2.Provider](https://www.nuget.org/packages/OpenSSL.X509Certificate2.Provider/)
 
 ## Platforms Support
@@ -581,6 +583,8 @@ More interfaces are coming soon.
 If you don't know how to start or just want to have a look at how to use our SDK in a real use case, we created a few sample application which you can try out:
 
 * Sample using the CloudStorage interface: [UnifiedCloudStorage](https://github.com/CloudRail/cloudrail-si-dotnet-sdk/tree/master/Examples/UnifiedCloudStorage)
+* Sample using the Social Profile interface: [UnifiedSocialProfile](https://github.com/CloudRail/cloudrail-si-dotnet-sdk/tree/master/Examples/UnifiedSocialProfile)
+* Sample using the Bucket Storage interface: [UnifiedBucketCloudStorage](https://github.com/CloudRail/cloudrail-si-dotnet-sdk/tree/master/Examples/UnifiedBucketCloudStorage)
 
 ## License Key
 
@@ -596,7 +600,7 @@ Learn more about our pricing on https://cloudrail.com/pricing
 
 ## Other Platforms
 
-CloudRail is also available for other platforms like iOS, Java and NodeJS. You can find all libraries on https://cloudrail.com
+CloudRail is also available for other platforms like Xamarin(iOS/Android), iOS, Java and NodeJS. You can find all libraries on https://cloudrail.com
 
 ## Questions?
 
