@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C6A4F08B-17CB-43B5-9FB6-9B8D7964B079}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnifiedBucketCloudStorage/Program.cs">
+    <Files>
+      <File FileName="UnifiedBucketCloudStorage/Program.cs" Line="28" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnifiedBucketCloudStorage" expanded="True">
+            <Node name="UnifiedBucketCloudStorage" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnifiedBucketCloudStorage PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C6B096C7-12E1-4DA7-921F-069BEE81D834}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnifiedSocialProfile/Program.cs">
+    <Files>
+      <File FileName="UnifiedSocialProfile/Program.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnifiedSocialProfile" expanded="True">
+            <Node name="UnifiedSocialProfile" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnifiedSocialProfile PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

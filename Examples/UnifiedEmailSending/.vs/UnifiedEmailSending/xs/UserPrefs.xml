@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{CC524206-51D8-45C5-A080-3D33D3D05AA4}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnifiedEmailSending" expanded="True">
+            <Node name="UnifiedEmailSending" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="CloudRailSI" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnifiedEmailSending PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

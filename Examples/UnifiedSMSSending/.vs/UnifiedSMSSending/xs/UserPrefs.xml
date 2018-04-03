@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7D88965C-A994-4BC3-9095-A3BD28835CAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnifiedSMSSending/Program.cs">
+    <Files>
+      <File FileName="UnifiedSMSSending/Program.cs" Line="36" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnifiedSMSSending" expanded="True">
+            <Node name="UnifiedSMSSending" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnifiedSMSSending PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
