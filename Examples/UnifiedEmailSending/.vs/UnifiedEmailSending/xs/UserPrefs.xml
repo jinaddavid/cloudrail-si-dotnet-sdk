@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{CC524206-51D8-45C5-A080-3D33D3D05AA4}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnifiedEmailSending/Program.cs">
+    <Files>
+      <File FileName="UnifiedEmailSending/Program.cs" Line="31" Column="13" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UnifiedEmailSending" expanded="True">
             <Node name="UnifiedEmailSending" expanded="True">
-              <Node name="References" expanded="True">
-                <Node name="CloudRailSI" selected="True" />
-              </Node>
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

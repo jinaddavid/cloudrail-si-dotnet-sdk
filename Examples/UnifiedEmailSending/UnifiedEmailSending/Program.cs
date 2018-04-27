@@ -19,7 +19,7 @@ namespace UnifiedEmailSending
 
             MailJet mailJet = new MailJet(null, "[Mailjet API Key]", "[Mailjet API Private Key]");
             SendGrid sendGrid = new SendGrid(null, "[SendGrid API Key]");
-            GMail gmail = new GMail(new LocalReceiver(port), "[Client ID]", "", "http://localhost:" + port + "/auth", "state");
+            GMail gmail = new GMail(new LocalReceiver(port), "[Client ID]", "[Client Secret]", "http://localhost:" + port + "/auth", "state");
 
             List<String> recipients = new List<String>
             {

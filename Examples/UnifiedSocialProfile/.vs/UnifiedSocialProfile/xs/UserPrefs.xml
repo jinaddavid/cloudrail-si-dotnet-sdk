@@ -8,7 +8,8 @@
         <State name="__root__">
           <Node name="UnifiedSocialProfile" expanded="True">
             <Node name="UnifiedSocialProfile" expanded="True">
-              <Node name="References" expanded="True" selected="True" />
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

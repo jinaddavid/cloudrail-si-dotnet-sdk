@@ -9,8 +9,8 @@
           <Node name="UnifiedSMSSending" expanded="True">
             <Node name="UnifiedSMSSending" expanded="True">
               <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" selected="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,1 +1,24 @@
-﻿<Properties />
+﻿<Properties StartupConfiguration="{9132D910-F716-4017-8A4F-2E47B1CDF988}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnifiedCloudStorage" expanded="True">
+            <Node name="UnifiedCloudStorage" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UnifiedCloudStorage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

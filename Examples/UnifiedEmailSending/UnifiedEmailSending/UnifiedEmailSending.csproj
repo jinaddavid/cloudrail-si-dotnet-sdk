@@ -45,8 +45,8 @@
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System.Core" />
-    <Reference Include="CloudRailSI">
-      <HintPath>..\..\..\..\library-dotnet\CloudRailSI\bin\Release\netstandard2.0\CloudRailSI.dll</HintPath>
+    <Reference Include="CloudrailSI">
+      <HintPath>..\packages\CloudRail.SDK.1.0.2\lib\CloudrailSI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
