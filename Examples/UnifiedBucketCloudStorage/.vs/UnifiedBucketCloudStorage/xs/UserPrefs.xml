@@ -9,7 +9,7 @@
           <Node name="UnifiedBucketCloudStorage" expanded="True">
             <Node name="UnifiedBucketCloudStorage" expanded="True">
               <Node name="References" expanded="True" />
-              <Node name="Packages" expanded="True" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
