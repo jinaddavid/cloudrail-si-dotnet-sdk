@@ -99,7 +99,7 @@ using Com.Cloudrail.SI.Services;
 using Com.CloudRail.SI.ServiceCode.Commands.CodeRedirect;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 // ICloudStorage cs = new Box(RedirectReceiver, "[clientIdentifier]", "[clientSecret]","[redirectUri]", "[state]");
 // ICloudStorage cs = new OneDrive(RedirectReceiver, "[clientIdentifier]", "[clientSecret]","[redirectUri]", "[state]");
@@ -150,7 +150,7 @@ using Com.Cloudrail.SI.Exceptions;
 using Com.Cloudrail.SI.Services;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // IBusinessCloudStorage cs = new MicrosoftAzure(null, "[accountName]", "[accessKey]");
@@ -206,7 +206,7 @@ using Com.Cloudrail.SI.Services;
 using Com.CloudRail.SI.ServiceCode.Commands.CodeRedirect;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // IProfile profile = = new Twitter(RedirectReceiver, "[clientIdentifier]", "[clientSecret]", "[redirectUri]", "[state]");
@@ -257,7 +257,7 @@ using Com.Cloudrail.SI.Services;
 using Com.CloudRail.SI.ServiceCode.Commands.CodeRedirect;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // ISocial social = new Twitter(RedirectReceiver, "[clientIdentifier]", "[clientSecret]", "[redirectUri]", "[state]");
@@ -301,7 +301,7 @@ using Com.Cloudrail.SI.Exceptions;
 using Com.Cloudrail.SI.Services;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // IPayment payment = new Stripe(null, "[secretKey]");
@@ -344,7 +344,7 @@ using Com.Cloudrail.SI.Services;
 using Com.CloudRail.SI.ServiceCode.Commands.CodeRedirect;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // IEmail email = new MailJet(null, "[clientIdentifier]", "[clientSecret]");
@@ -394,7 +394,7 @@ using Com.Cloudrail.SI.Exceptions;
 using Com.Cloudrail.SI.Services;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // ISMS sms = new Nexmo(null, "[clientIdentifier]", "[clientSecret]");
@@ -436,7 +436,7 @@ using Com.Cloudrail.SI.Exceptions;
 using Com.Cloudrail.SI.Services;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // IPointsOfInterest poi = new Foursquare(null, "[clientID]", "[clientSecret]");
@@ -488,7 +488,7 @@ using Com.Cloudrail.SI.Services;
 using Com.CloudRail.SI.ServiceCode.Commands.CodeRedirect;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 
 // IVideo video = new Twitch(RedirectReceiver, "[clientIdentifier]", "[clientSecret]", "[redirectUri]", "[state]");
@@ -536,16 +536,16 @@ using Com.Cloudrail.SI.Exceptions;
 using Com.Cloudrail.SI.Services;
 using Com.Cloudrail.SI.Types;
 
-CloudRail.AppKey = "{Your_License_Key};
+CloudRail.AppKey = "{Your_License_Key}";
 
 IMessaging service;
 
-// service = new Viber(this, "[Bot Token]", "[Webhook URL]", "[Bot Name]");
-// service = new Telegram(this, "[Bot Token]", "[Webhook URL]");
-// service = new Line(this, "[Bot Token]");
+// service = new Viber(null, "[Bot Token]", "[Webhook URL]", "[Bot Name]");
+// service = new Telegram(null, "[Bot Token]", "[Webhook URL]");
+// service = new Line(null, "[Bot Token]");
 // service = new SlackBot(null, "[Bot Token]");
 
-service = new FacebookMessenger(this, "[Bot Token]");
+service = new FacebookMessenger(null, "[Bot Token]");
 
 new System.Threading.Thread(new System.Threading.ThreadStart(() =>
 {
